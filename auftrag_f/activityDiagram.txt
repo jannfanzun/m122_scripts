@@ -1,0 +1,16 @@
+[Start]
+Zeit abrufen
+Bitcoin-Preis abrufen
+Bitcoin-Preis abrufen --> Ethereum-Preis abrufen
+Ethereum-Preis abrufen --> Ripple-Preis abrufen
+Ripple-Preis abrufen --> Litecoin-Preis abrufen
+Litecoin-Preis abrufen --> Bitcoin Cash-Preis abrufen
+Bitcoin Cash-Preis abrufen --> Cardano-Preis abrufen
+Cardano-Preis abrufen --> Stellar-Preis abrufen
+Stellar-Preis abrufen --> EOS-Preis abrufen
+EOS-Preis abrufen --> Tron-Preis abrufen
+Tron-Preis abrufen --> Monero-Preis abrufen
+Monero-Preis abrufen --> HTML-Quellcode generieren
+HTML-Quellcode generieren --> HTML-Quellcode in eine Datei schreiben
+[End]
+
